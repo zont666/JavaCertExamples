@@ -1,0 +1,8 @@
+ - ive to be making sure people start at the right date and finish at the right date - how can i do this? its not in my control to do that. that is surely a PM responsibility and not one for a tech lead???
+
+ - when a resource is taking off valero, rachel doesnt seem to be aware of it and only finds out hours, sometimes days later
+ 
+ - i was checking in with dave on a daily basis and helping him out when he asked. what more can i do? im not constantly checking up on his logged time. 
+ 
+  - rachel called me up yesterday and asked me what dave was on and how long he had spent on it. All this information is either in a spreadsheet she put together "development schedule" and the time is in timesheets. Also there is
+  another spreadsheet showing the bits dave has completed and bits outstanding. I dont know why i was asked when she already had all the information at hand
