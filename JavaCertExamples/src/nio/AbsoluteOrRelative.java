@@ -5,6 +5,7 @@ import java.nio.file.Paths;
 
 public class AbsoluteOrRelative {
 
+
   public static void main( String[] args ) {
     Path path1 = Paths.get( "C:\\birds\\egret.txt" );
     System.out.println( "Path1 is Absolute? " + path1.isAbsolute() );
